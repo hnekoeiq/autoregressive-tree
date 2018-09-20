@@ -1,1 +1,1 @@
-
+[1] C. Meek, D. M. Chickering, and D. Heckerman, “Autoregressive Tree Models for Time-Series Analysis,” in Proceedings of the 2002 SIAM International Conference on Data Mining, Philadelphia, PA: Society for Industrial and Applied Mathematics, 2002, pp. 229–244.
