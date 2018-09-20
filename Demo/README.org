@@ -1,1 +1,1 @@
-*Price prediction using Autoresgressive Tree model
+* Price prediction using Autoresgressive Tree model
